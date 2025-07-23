@@ -1,0 +1,52 @@
+{
+    "Citrus - Fine Dining Restaurant": {
+        "rating": 4.9,
+        "reviews": 1500,
+        "address": "Sahar Airport Rd"
+    },
+    "Nawab Saheb": {
+        "rating": 4.8,
+        "reviews": 4700,
+        "address": "The Westin, 2 & 3B, Lake, near Chinmayanand Ashram"
+    },
+    "The Sahib Room & Kipling Bar": {
+        "rating": 4.8,
+        "reviews": 2500,
+        "address": "Level 9M, The St. Regis Mumbai"
+    },
+    "Tr\u00e8sind Mumbai": {
+        "rating": 4.7,
+        "reviews": 4700,
+        "address": "Ground Floor Inspire BKC E"
+    },
+    "Peshwa Pavilion": {
+        "rating": 4.7,
+        "reviews": 3100,
+        "address": "International Airport, Itc Maratha, Chhatrapati Shivaji Maharaj Int'l Airport Rd"
+    },
+    "JYRAN - TANDOOR DINING & LOUNGE": {
+        "rating": 4.7,
+        "reviews": 2200,
+        "address": "C 57"
+    },
+    "Namak - Indian Specialty Restaurant": {
+        "rating": 4.7,
+        "reviews": 1000,
+        "address": "Hotel Sahara Star, opposite Terminal 1"
+    },
+    "O Pedro - BKC": {
+        "rating": 4.6,
+        "reviews": 6600,
+        "address": "Jet Airways, 2, Godrej BKC, Plot No C-68"
+    },
+    "KOKO Mumbai": {
+        "rating": 4.6,
+        "reviews": 4600,
+        "address": "C Wing, Trade World, Kamala Mills Compound, Ground Floor"
+    },
+    "Trishna": {
+        "rating": 4.6,
+        "reviews": 3300,
+        "address": "Sai Baba Mandir Marg, next to Commerce House, opp. Kalaghoda Cafe"
+    }
+}
